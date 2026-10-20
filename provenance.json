@@ -1,0 +1,14 @@
+{
+  "CPIAUCSL": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL",
+    "last_observation": "2026-09-01"
+  },
+  "MORTGAGE30US": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US",
+    "last_observation": "2026-10-15"
+  },
+  "USREC": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=USREC",
+    "last_observation": "2026-09-01"
+  }
+}
